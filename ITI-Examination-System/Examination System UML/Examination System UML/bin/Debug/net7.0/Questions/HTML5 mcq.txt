@@ -1,0 +1,167 @@
+What does the abbreviation HTML stand for?
+$$$$$$
+Hyper Text Markup Language
+$$$$$$
+Holistick Technical Method Library
+$$$$$$
+Hyper Tax Makes Line
+$$$$$$
+None of the above
+$$$$$$
+a
+$$$$$$
+To create HTML page, you need _____
+$$$$$$
+Web browser
+$$$$$$
+text editor
+$$$$$$
+Both [A] and [B]
+$$$$$$
+None of the above
+$$$$$$
+c
+$$$$$$
+Choose the correct HTML tag to make a text italic
+$$$$$$
+<i>
+$$$$$$
+<italic>
+$$$$$$
+<it>
+$$$$$$
+<il>
+$$$$$$
+a
+$$$$$$
+What does the <br> tag add to your webpage?
+$$$$$$
+Long break
+$$$$$$
+Paragraph break
+$$$$$$
+Line break
+$$$$$$
+None of the above
+$$$$$$
+c
+$$$$$$
+Adding a border to your image helps the visitor to recognize it as what?
+$$$$$$
+A frame
+$$$$$$
+A link
+$$$$$$
+A picture
+$$$$$$
+None of the above
+$$$$$$
+b
+$$$$$$
+The tag which allows you to nest other HTML tags within the description
+$$$$$$
+<CAPTION>
+$$$$$$
+<TD>
+$$$$$$
+<TR>
+$$$$$$
+None of the above
+$$$$$$
+a
+$$$$$$
+Which program do you need to write HTML?
+$$$$$$
+A graphics program
+$$$$$$
+Any text editor
+$$$$$$
+HTML -development suite 4
+$$$$$$
+All of the above
+$$$$$$
+b
+$$$$$$
+All normal webpages consists of ______.
+$$$$$$
+Top and bottom
+$$$$$$
+Body and frameset
+$$$$$$
+Head and body
+$$$$$$
+None of the above
+$$$$$$
+c
+$$$$$$
+To created a bulleted list, use _____.
+$$$$$$
+<ol>
+$$$$$$
+<ul>
+$$$$$$
+<il>
+$$$$$$
+None of the above
+$$$$$$
+b
+$$$$$$
+Increasing the cellpadding means __________.
+$$$$$$
+Increase the softness of your site
+$$$$$$
+Increase the space between cells
+$$$$$$
+Increase the distance between cell and content
+$$$$$$
+All of the above
+$$$$$$
+c
+$$$$$$
+Choose the correct HTML tag to make a text bold
+$$$$$$
+<bd>
+$$$$$$
+<bold>
+$$$$$$
+<bl>
+$$$$$$
+<b>
+$$$$$$
+d
+$$$$$$
+Which tag will add rows to your tables?
+$$$$$$
+<tr> and </tr>
+$$$$$$
+<th> and </th>
+$$$$$$
+<td> and </td>
+$$$$$$
+None of the above
+$$$$$$
+a
+$$$$$$
+To start a list using circles, use_____.
+$$$$$$
+<ul "round">
+$$$$$$
+<ul type="circle">
+$$$$$$
+<ul type="round">
+$$$$$$
+<ul ="round">
+$$$$$$
+b
+$$$$$$
+If you create an HTML page in word processor,____.
+$$$$$$
+save it with binary file
+$$$$$$
+save it with WMF file
+$$$$$$
+save it with ASCII text file
+$$$$$$
+All of the above
+$$$$$$
+c

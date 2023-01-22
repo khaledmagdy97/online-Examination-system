@@ -1,0 +1,167 @@
+What is the full form of DBMS?
+$$$$$$
+Data of Binary Management System
+$$$$$$
+Database Management System
+$$$$$$
+Database Management Service
+$$$$$$
+Data Backup Management System
+$$$$$$
+b
+$$$$$$
+In which of the following formats data is stored in the database management system?
+$$$$$$
+Image
+$$$$$$
+Text
+$$$$$$
+Table
+$$$$$$
+Graph
+$$$$$$
+c
+$$$$$$
+The DBMS acts as an interface between ________________ and ________________ of an enterprise-class system
+$$$$$$
+Data and the DBMS
+$$$$$$
+Application and SQL
+$$$$$$
+Database application and the database
+$$$$$$
+he user and the software
+$$$$$$
+c
+$$$$$$
+ ______________ is a set of one or more attributes taken collectively to uniquely identify a record.
+$$$$$$
+Primary Key
+$$$$$$
+Foreign key
+$$$$$$
+Super key
+$$$$$$
+Candidate key
+$$$$$$
+c
+$$$$$$
+Which forms have a relation that contains information about a single entity?
+$$$$$$
+4NF
+$$$$$$
+2NF
+$$$$$$
+3NF
+$$$$$$
+5NF
+$$$$$$
+a
+$$$$$$
+_______ indicates the maximum number of entities that can be involved in a relationship.
+$$$$$$
+Greater Entity Count
+$$$$$$
+Minimum cardinality
+$$$$$$
+Maximum cardinality
+$$$$$$
+ERD
+$$$$$$
+c
+$$$$$$
+The user IDs can be added or removed using which of the following fixed roles?
+$$$$$$
+db_sysadmin
+$$$$$$
+db_accessadmin
+$$$$$$
+db_securityadmin
+$$$$$$
+db_setupadmin
+$$$$$$
+b
+$$$$$$
+What does a foreign key combined with a primary key create?
+$$$$$$
+Network model between the tables that connect them
+$$$$$$
+Parent-Child relationship between the tables that connects them
+$$$$$$
+One to many relationship between the tables that connects them
+$$$$$$
+All of the mentioned
+$$$$$$
+a
+$$$$$$
+Which of the following is correct according to the technology deployed by DBMS?
+$$$$$$
+Pointers are used to maintain transactional integrity and consistency
+$$$$$$
+Cursors are used to maintain transactional integrity and consistency
+$$$$$$
+Locks are used to maintain transactional integrity and consistency
+$$$$$$
+Triggers are used to maintain transactional integrity and consistency
+$$$$$$
+c
+$$$$$$
+Which of the following is correct regarding the file produced by a spreadsheet?
+$$$$$$
+can be used as it is by the DBMS
+$$$$$$
+stored on disk in an ASCII text format
+$$$$$$
+all of the mentioned
+$$$$$$
+none of the mentioned
+$$$$$$
+a
+$$$$$$
+______ resembles Create view.
+$$$$$$
+Create table . . . as
+$$$$$$
+Create view as
+$$$$$$
+Create table . . .like
+$$$$$$
+With data
+$$$$$$
+a
+$$$$$$
+Which of the following is the best way to represent the attributes in a large db?
+$$$$$$
+Dot representation
+$$$$$$
+Concatenation
+$$$$$$
+Relational-and
+$$$$$$
+All of the mentioned
+$$$$$$
+b
+$$$$$$
+Which of the following key is required in to handle the data when the encryption is applied to the data so that the unauthorised usercannot access the data?
+$$$$$$
+Primary key
+$$$$$$
+Authorised key
+$$$$$$
+Encryption key
+$$$$$$
+Decryption key
+$$$$$$
+d
+$$$$$$
+Which of the following is known as the process of viewing cross-tab with a fixed value of one attribute?
+$$$$$$
+Dicing
+$$$$$$
+Pivoting
+$$$$$$
+Slicing
+$$$$$$
+Both Pivoting and Dicing
+$$$$$$
+c

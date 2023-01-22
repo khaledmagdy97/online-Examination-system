@@ -1,0 +1,15 @@
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\bin\Debug\net7.0\Examination System UML.exe
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\bin\Debug\net7.0\Examination System UML.deps.json
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\bin\Debug\net7.0\Examination System UML.runtimeconfig.json
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\bin\Debug\net7.0\Examination System UML.dll
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\bin\Debug\net7.0\Examination System UML.pdb
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\Examination System UML.csproj.AssemblyReference.cache
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\Examination System UML.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\Examination System UML.AssemblyInfoInputs.cache
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\Examination System UML.AssemblyInfo.cs
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\Examination System UML.csproj.CoreCompileInputs.cache
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\Examination System UML.dll
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\refint\Examination System UML.dll
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\Examination System UML.pdb
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\Examination System UML.genruntimeconfig.cache
+D:\ITI\UML\UML project\Local repo\ITI-Examination-System\Examination System UML\Examination System UML\obj\Debug\net7.0\ref\Examination System UML.dll

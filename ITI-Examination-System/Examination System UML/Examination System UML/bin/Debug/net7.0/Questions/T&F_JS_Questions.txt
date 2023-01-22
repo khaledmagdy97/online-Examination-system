@@ -1,0 +1,24 @@
+You can use a text string as a literal value or assign it to a variable
+$$$$$$
+a
+$$$$$$
+The statement document.write("This is a text string.");
+prints "This is a text string".
+$$$$$$
+b
+$$$$$$
+JavaScript can be used to delete persistent cookies in a program.
+$$$$$$
+a
+$$$$$$
+To round a number to the next highest integer you will use the round(x) Math class method.
+$$$$$$
+b
+$$$$$$
+In JavaScript code, you use the words yes and no to indicate Boolean values.
+$$$$$$
+b
+$$$$$$
+When you add a new property to an object that has been instantiated from a constructor function, the new property is available to all objects.
+$$$$$$
+b

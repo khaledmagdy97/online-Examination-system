@@ -1,0 +1,21 @@
+Project Details:
+=================
+
+- Tool (Features & History & Adv. - Dis.): draw.io
+	"Free, UX, Documentation, Reverse Engineering, Code Generation, Num of Supported Diagrams" )
+		yes, good, __, no, no, ?
+ 
+- UML Diagrams to Describe your system  18
+	class				 Khaled api
+	use case 			 EMAN   doc
+	sequence/activity DINA   web 
+	object				 Fathy  api
+
+
+- Presentation for project 19
+
+
+Login KA 15
+Admin Eman KA Fathy 17
+Instructor KM 17
+student Dina 17

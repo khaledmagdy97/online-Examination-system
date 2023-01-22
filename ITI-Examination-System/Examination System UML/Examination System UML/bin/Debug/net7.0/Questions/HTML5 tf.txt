@@ -1,0 +1,23 @@
+Are HTML tags case sensitive?
+$$$$$$
+b
+$$$$$$
+Is HTML5 backward compatible with old browsers?
+$$$$$$
+a
+$$$$$$
+Inline elements are normally displayed without starting a new line.
+$$$$$$
+a
+$$$$$$
+An <iframe> is used to display a web page within a web page.
+$$$$$$
+a
+$$$$$$
+In HTML, you can embed SVG elements directly into an HTML page.
+$$$$$$
+a
+$$$$$$
+An <iframe> is used to display a web page within a web page.
+$$$$$$
+a

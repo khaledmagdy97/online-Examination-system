@@ -1,0 +1,175 @@
+Inside which HTML element do we put the JavaScript?
+$$$$$$
+<javascript>
+$$$$$$
+<js>
+$$$$$$
+<src>
+$$$$$$
+<script>
+$$$$$$
+d
+$$$$$$
+Where is the correct place to insert a JavaScript?
+$$$$$$
+Both the head section and the body section are correct
+$$$$$$
+The head section
+$$$$$$
+The body section
+$$$$$$
+None of the above
+$$$$$$
+a
+$$$$$$
+Is it necessary for the external script file to contain a <script> tag?
+$$$$$$
+Yes
+$$$$$$
+No
+$$$$$$
+Depends on the type of include
+$$$$$$
+None of the above
+$$$$$$
+b
+$$$$$$
+What is the correct syntax for referring to an external script called ''gfg.js''?
+$$$$$$
+<script name="gfg.js">
+$$$$$$
+<script href="gfg.js">
+$$$$$$
+<script src="gfg.js">
+$$$$$$
+None of these
+$$$$$$
+c
+$$$$$$
+How many ways are there with which we can declare a variable in javascript?
+$$$$$$
+Only one
+$$$$$$
+Three
+$$$$$$
+Infinitely many
+$$$$$$
+None of the above
+$$$$$$
+b
+$$$$$$
+Is a variable named ''apple'' same as ''Apple'' in javascript?
+$$$$$$
+Yes
+$$$$$$
+No
+$$$$$$
+Only when we use ''strict''
+$$$$$$
+None of the above
+$$$$$$
+b
+$$$$$$
+Which of the following represent truthy values in javascript?
+$$$$$$
+true
+$$$$$$
+{}
+$$$$$$
+[]
+$$$$$$
+All of the above
+$$$$$$
+d
+$$$$$$
+What will be the output of the following code?
+< script >
+document.write( typeof( ''1'' + 2) );
+</ script >
+$$$$$$
+''boolean''
+$$$$$$
+''string''
+$$$$$$
+''number''
+$$$$$$
+None of the above
+$$$$$$
+b
+$$$$$$
+What will be the output of the following code?
+< script>
+let ans = 6 / "3";
+document.write ( typeof ans );
+< /script>
+$$$$$$
+None of the above
+$$$$$$
+''number''
+$$$$$$
+''integer''
+$$$$$$
+''string
+$$$$$$
+b
+$$$$$$
+What is the correct JavaScript syntax to change the content of the HTML element below?
+<p id="demo">May the code be with you.</p>
+$$$$$$
+document.getElementById("demo").innerHTML = "Hola!";
+$$$$$$
+document.getElement("p").innerHTML = "Hola!";
+$$$$$$
+#demo.innerHTML = "Hola!";
+$$$$$$
+document.getElementByName("p").innerHTML = "Hola!";
+$$$$$$
+a
+$$$$$$
+What is the correct precedence of the operator in javascript?
+$$$$$$
+() [] . ++
+$$$$$$
+++ . [] ()
+$$$$$$
+. ++ [] ()
+$$$$$$
+() ++ . []
+$$$$$$
+a
+$$$$$$
+What will be the output of the following code snippet let gfg = ”GeeksforGeeks” console.log(gfg.charAt(4))?
+$$$$$$
+o
+$$$$$$
+f
+$$$$$$
+k
+$$$$$$
+s
+$$$$$$
+d
+$$$$$$
+What will be the output of the following code snippet let gfg=”GeeksforGeeks” console.log(gfg.indexOf(‘G’))?
+$$$$$$
+8
+$$$$$$
+0  
+$$$$$$
+-1
+$$$$$$
+2
+$$$$$$
+b
+$$$$$$
+Which of the following represent falsy values in javascript?
+$$$$$$
+false
+$$$$$$
+'' ''
+$$$$$$
+undefined
+$$$$$$
+All of the above
+$$$$$$
+d

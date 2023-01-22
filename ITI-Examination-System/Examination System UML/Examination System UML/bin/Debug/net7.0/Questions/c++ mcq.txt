@@ -1,0 +1,301 @@
+What is C++?
+$$$$$$
+C++ is an object oriented programming language
+$$$$$$
+C++ is a procedural programming language
+$$$$$$
+C++ supports both procedural and object oriented programming language
+$$$$$$
+C++ is a functional programming language
+$$$$$$
+c
+$$$$$$
+Which of the following is the correct syntax of including a user defined header files in C++?
+$$$$$$
+#include [userdefined]
+$$$$$$
+#include “userdefined”
+$$$$$$
+#include <userdefined.h>
+$$$$$$
+#include <userdefined>
+$$$$$$
+b
+$$$$$$
+Which of the following is used for comments in C++?
+$$$$$$
+/* comment */
+$$$$$$
+// comment */
+$$$$$$
+// comment
+$$$$$$
+both // comment or /* comment */
+$$$$$$
+d
+$$$$$$
+Which of the following user-defined header file extension used in c++?
+$$$$$$
+hg
+$$$$$$
+cpp
+$$$$$$
+h
+$$$$$$
+hf
+$$$$$$
+c
+$$$$$$
+Which of the following is a correct identifier in C++?
+$$$$$$
+VAR_1234
+$$$$$$
+$var_name
+$$$$$$
+7VARNAME
+$$$$$$
+7var_name
+$$$$$$
+a
+$$$$$$
+Which of the following is not a type of Constructor in C++?
+$$$$$$
+Default constructor
+$$$$$$
+Parameterized constructor
+$$$$$$
+Copy constructor
+$$$$$$
+Friend constructor
+$$$$$$
+d
+$$$$$$
+Which of the following approach is used by C++?
+$$$$$$
+Left-right
+$$$$$$
+Right-left
+$$$$$$
+Bottom-up
+$$$$$$
+Top-down
+$$$$$$
+c
+$$$$$$
+What is virtual inheritance in C++?
+$$$$$$
+C++ technique to enhance multiple inheritance
+$$$$$$
+C++ technique to ensure that a private member of the base class can be accessed somehow
+$$$$$$
+C++ technique to avoid multiple inheritances of classes
+$$$$$$
+C++ technique to avoid multiple copies of the base class into children/derived class
+$$$$$$
+d
+$$$$$$
+What happens if the following C++ statement is compiled and executed?
+int *ptr = NULL;
+delete ptr;
+$$$$$$
+The program is not semantically correct
+$$$$$$
+The program is compiled and executed successfully
+$$$$$$
+The program gives a compile-time error
+$$$$$$
+The program compiled successfully but throws an error during run-time
+$$$$$$
+b
+$$$$$$
+What will be the output of the following C++ code?
+
+#include <iostream> 
+#include <string>
+using namespace std; 
+int main(int argc, char const *argv[])
+{
+	char s1[6] = "Hello";
+	char s2[6] = "World";
+	char s3[12] = s1 + " " + s2;
+	cout<<s3;
+	return 0;
+}
+$$$$$$
+Hello
+$$$$$$
+World
+$$$$$$
+Error
+$$$$$$
+Hello World
+$$$$$$
+c
+$$$$$$
+What is the difference between delete and delete[] in C++?
+$$$$$$
+delete is syntactically correct but delete[] is wrong and hence will give an error if used in any case
+$$$$$$
+delete is used to delete normal objects whereas delete[] is used to pointer objects
+$$$$$$
+delete is a keyword whereas delete[] is an identifier
+$$$$$$
+delete is used to delete single object whereas delete[] is used to multiple(array/pointer of) objects
+$$$$$$
+d
+$$$$$$
+What happens if the following program is executed in C and C++?
+
+#include <stdio.h> 
+int main(voi
+{ 
+	int new = 5;
+	printf("%d", new); 
+}
+$$$$$$
+Error in C and successful execution in C++
+$$$$$$
+Error in both C and C++
+$$$$$$
+Error in C++ and successful execution in C
+$$$$$$
+A successful run in both C and C++
+$$$$$$
+c
+$$$$$$
+What happens if the following program is executed in C and C++?
+
+#include <stdio.h> 
+void func(void)
+{
+	printf("Hello");
+}
+void main() 
+{ 
+	func();
+	func(2);
+}
+$$$$$$
+Outputs Hello twice in both C and C++
+$$$$$$
+Error in C and successful execution in C++
+$$$$$$
+Error in C++ and successful execution in C
+$$$$$$
+Error in both C and C++
+$$$$$$
+d
+$$$$$$
+Which of the following is correct about this pointer in C++?
+$$$$$$
+this pointer is passed as a hidden argument in all static variables of a class
+$$$$$$
+this pointer is passed as a hidden argument in all the functions of a class
+$$$$$$
+this pointer is passed as a hidden argument in all non-static functions of a class
+$$$$$$
+this pointer is passed as a hidden argument in all static functions of a class
+$$$$$$
+c
+$$$$$$
+What will be the output of the following C++ code?
+
+    #include <iostream>
+    #include <string>
+    #include <algorithm>
+    using namespace std;
+    int main() 
+    {
+        string s = "spaces in text";
+        s.erase(remove(s.begin(), s.end(), '' '' ), s.end() ) ;
+        cout << s << endl;
+    }
+$$$$$$
+spacesintext
+$$$$$$
+spaces in text
+$$$$$$
+spaces
+$$$$$$
+spaces in
+$$$$$$
+a
+$$$$$$
+Which of the following C++ code will give error on compilation?
+
+================code 1=================
+#include <iostream>
+using namespace std;
+int main(int argc, char const *argv[])
+{
+	cout<<"Hello World";
+	return 0;
+}
+
+================code 2=================
+#include <iostream>
+int main(int argc, char const *argv[])
+{
+	std::cout<<"Hello World";
+	return 0;
+}
+$$$$$$
+Code 1 only
+$$$$$$
+Neither code 1 nor code 2
+$$$$$$
+Both code 1 and code 2
+$$$$$$
+Code 2 only
+$$$$$$
+b
+$$$$$$
+Which of the following type is provided by C++ but not C?
+$$$$$$
+double
+$$$$$$
+float
+$$$$$$
+int
+$$$$$$
+bool
+$$$$$$
+d
+$$$$$$
+What is the value of p in the following C++ code snippet?
+
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        int p;
+        bool a = true;
+        bool b = false;
+        int x = 10;
+        int y = 5;
+        p = ((x | y) + (a + b));
+        cout << p;
+        return 0;
+    }
+$$$$$$
+12
+$$$$$$
+0
+$$$$$$
+2
+$$$$$$
+16
+$$$$$$
+d
+$$$$$$
+By default, all the files in C++ are opened in _________ mode.
+$$$$$$
+Binary
+$$$$$$
+VTC
+$$$$$$
+Text
+$$$$$$
+ISCII
+$$$$$$
+c

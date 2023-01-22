@@ -1,0 +1,61 @@
+The computer will carry out the instructions that follow the symbol //
+$$$$$$
+b
+$$$$$$
+A program must have a main function.
+$$$$$$
+a
+$$$$$$
+The following is an example of a declaration statement:
+cout << "Enter a number: ";
+$$$$$$
+b
+$$$$$$
+An identifier must start with a letter or an underscore.
+$$$$$$
+a
+$$$$$$
+It is best to use very short identifiers.
+$$$$$$
+b
+$$$$$$
+In the statement below: "Hello!" is called a string literal.
+cout << "Hello!"
+$$$$$$
+a
+$$$$$$
+There is no limit on the size of the numbers that can be stored in the int data type.
+$$$$$$
+b
+$$$$$$
+76.45e-2 is a valid value for a float data type.
+$$$$$$
+a
+$$$$$$
+There are only two possible values for the bool data type.
+$$$$$$
+a
+$$$$$$
+All data types take up the same amount of storage.
+$$$$$$
+b
+$$$$$$
+It is good program style to put spaces between words and symbols.
+$$$$$$
+a
+$$$$$$
+A C++ statement cannot extend over more than one line.
+$$$$$$
+b
+$$$$$$
+In C++ addition is always evaluated before subtraction.
+$$$$$$
+b
+$$$$$$
+The value of 3/7 is 0.
+$$$$$$
+a
+$$$$$$
+>> is used for output.
+$$$$$$
+b

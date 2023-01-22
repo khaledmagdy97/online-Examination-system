@@ -1,0 +1,23 @@
+Properties of an object are stored as rows in a table
+$$$$$$
+b
+$$$$$$
+DBMS stores data efficiently with little wasted space
+$$$$$$
+a
+$$$$$$
+A primary goal of a database system is to share data with multiple users
+$$$$$$
+a
+$$$$$$
+Multiple constraints can be included in a single query
+$$$$$$
+a
+$$$$$$
+The primary key does not necessarily have to be unique for a given table
+$$$$$$
+b
+$$$$$$
+Validation can make sure that your data is correct. a or b?
+$$$$$$
+b
